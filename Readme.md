@@ -1,8 +1,13 @@
 # Down Sampling and Up Sampling with Filters
 
+## Environment
 To run our code, create an environment first.
 
 ```bash
+git clone
+cd ImageProcess
+conda create -n sample python=3.10 -y
+conda activate sample
 pip install -r requirements.txt
 ```
 
